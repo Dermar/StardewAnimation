@@ -1,3 +1,5 @@
+### This is a huge folder! Maybe just download 'output.mov' if you want to see how it turned out.
+
 This is an animation about my favourite game: Stardew Valley. I always hate it when people sleep in the game before the day is up,
 so the general story is about a player who's slept the first two years of their game away. The grandpa who died and gave
 them their legacy is not particularly happy about that!
